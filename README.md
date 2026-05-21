@@ -39,5 +39,16 @@ Using the chromatic dispersion factor equation, determine the dispersion of the 
 Using the equations above, determine the dispersion-limited fiber length. 
 <img width="1262" height="1044" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
 # Calculation
+<img width="902" height="1600" alt="WhatsApp Image 2026-05-14 at 2 34 59 PM" src="https://github.com/user-attachments/assets/69519ea7-ca5b-4f47-8a42-43887548c4ab" />
+<img width="902" height="1600" alt="WhatsApp Image 2026-05-14 at 2 34 59 PM (1)" src="https://github.com/user-attachments/assets/4a99c629-954f-4182-9e3a-8787a3230362" />
 # Tabulation
+<img width="902" height="1600" alt="WhatsApp Image 2026-05-14 at 2 34 59 PM (2)" src="https://github.com/user-attachments/assets/2c7a194b-c21f-4678-8df7-666c7c3d6eff" />
+# Output
+<img width="959" height="557" alt="Screenshot 2026-05-14 142459" src="https://github.com/user-attachments/assets/2e4a9299-e213-4397-84fe-896ce8dcaddb" />
+<img width="959" height="565" alt="Screenshot 2026-05-14 142713" src="https://github.com/user-attachments/assets/ba66e6f6-e4a1-42b0-b55f-4dc75ec1302e" />
+<img width="959" height="566" alt="Screenshot 2026-05-14 142908" src="https://github.com/user-attachments/assets/762b9d2a-187a-4edd-b781-85ebe468355d" />
+<img width="959" height="562" alt="Screenshot 2026-05-14 142927" src="https://github.com/user-attachments/assets/cd368ed8-aefe-42dd-b0e2-a3df1e328e73" />
+<img width="959" height="565" alt="Screenshot 2026-05-14 142943" src="https://github.com/user-attachments/assets/f35c79d3-9645-4428-b976-fb3722c807b5" />
+
 # Result
+Thus, the output is verified.
